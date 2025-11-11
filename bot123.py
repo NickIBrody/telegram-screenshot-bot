@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # СЮДА ПОДСТАВЬ СВОЙ ТОКЕН ОТ BOTFATHER
-TOKEN = "8235818570:AAHfn21lxOZg0fnyYEOkUA5KiNo8V1_ntSo"
+TOKEN = " "
 
 def take_screenshot(url):
     """Функция для создания скриншота сайта"""
@@ -87,3 +87,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
