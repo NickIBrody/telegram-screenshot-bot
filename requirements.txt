@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+selenium==4.15.0
+webdriver-manager==4.0.1
