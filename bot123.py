@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 logging.getLogger('httpx').setLevel(logging.WARNING)
 logging.getLogger('telegram').setLevel(logging.WARNING)
 
-TOKEN = "8235818570:AAHfn21lxOZg0fnyYEOkUA5KiNo8V1_ntSo"
+TOKEN = ""
 
 def take_screenshot(url, delay=0):
     """Функция для создания скриншота сайта с задержкой"""
@@ -155,3 +155,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
