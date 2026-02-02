@@ -1,0 +1,4 @@
+Dockerfile linguist-vendored
+code/*.py linguist-language=Python
+*.py linguist-language=Python
+requirements.txt linguist-detectable=false
